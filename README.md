@@ -9,6 +9,8 @@ Tutorial on Bayesian model fitting using the PyVBMC package, presented at the *D
 - **Notebook:** [acerbi_bayes_tutorial.ipynb](acerbi_bayes_tutorial.ipynb)
 - **Slides:** [acerbi-bayes-padova-dec2022.pdf](acerbi-bayes-padova-dec2022.pdf)
 
+![PyVBMC demo](vbmc_animation.gif)
+
 ### License
 
 Unless stated otherwise, the material in this repo is released under the [MIT License](LICENSE).
