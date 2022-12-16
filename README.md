@@ -1,6 +1,6 @@
 # Practical and efficient Bayesian model fitting with Variational Bayesian Monte Carlo (PyVBMC)
 
-Tutorial on Bayesian model fitting using the PyVBMC package.
+Tutorial on Bayesian model fitting using the PyVBMC package, presented at the *Data Science in Action* event at the University of Padua (December 2022).
 
 **Lecturer:** [Luigi Acerbi](https://www.helsinki.fi/en/researchgroups/machine-and-human-intelligence), [@AcerbiLuigi](https://twitter.com/AcerbiLuigi) (University of Helsinki).
 
